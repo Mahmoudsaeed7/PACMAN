@@ -1,0 +1,47 @@
+#include "sound.h"
+#include<iostream>
+#include<SFML/Audio.hpp>
+using namespace std;
+using namespace sf;
+Music m;
+SoundBuffer buff,b;
+Sound s,ss;
+ void sound::out()
+{
+	buff.loadFromFile("paul haslinger - reactivate team rainbow.wav");
+	s.setBuffer(buff);
+	s.setLoop(true);
+	s.setVolume(5);
+	s.play();
+
+}
+ void sound::passby()
+{
+	m.openFromFile("oh-boy.OGG");
+	m.setVolume(5);
+	m.play();
+}
+void sound::choose()
+{
+	m.openFromFile("ow1.wav");
+	m.setVolume(5);
+	m.play();
+}
+void sound::eat()
+{
+	m.openFromFile("wakka_wakka1.wav");
+	m.setVolume(5);
+	m.play();
+}
+void sound::ingame()
+{
+	m.openFromFile("wakka_wakka1.wav");
+	m.setVolume(5);
+	m.play();
+}
+void sound::win()
+{
+	m.openFromFile("wakka_wakka1.wav");
+	m.setVolume(5);
+	m.play();
+}

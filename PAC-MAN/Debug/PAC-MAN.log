@@ -1,0 +1,16 @@
+﻿  main.cpp
+c:\users\dola769\documents\visual studio 2015\projects\pac-man\pac-man\enemy.h(13): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\dola769\documents\visual studio 2015\projects\pac-man\pac-man\main.cpp(142): warning C4018: '<': signed/unsigned mismatch
+c:\users\dola769\documents\visual studio 2015\projects\pac-man\pac-man\main.cpp(146): warning C4018: '<': signed/unsigned mismatch
+c:\users\dola769\documents\visual studio 2015\projects\pac-man\pac-man\main.cpp(330): warning C4018: '<': signed/unsigned mismatch
+c:\users\dola769\documents\visual studio 2015\projects\pac-man\pac-man\main.cpp(331): warning C4018: '<': signed/unsigned mismatch
+c:\users\dola769\documents\visual studio 2015\projects\pac-man\pac-man\main.cpp(333): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dola769\documents\visual studio 2015\projects\pac-man\pac-man\main.cpp(411): warning C4018: '<': signed/unsigned mismatch
+c:\users\dola769\documents\visual studio 2015\projects\pac-man\pac-man\main.cpp(458): warning C4018: '<': signed/unsigned mismatch
+c:\users\dola769\documents\visual studio 2015\projects\pac-man\pac-man\main.cpp(501): warning C4018: '<': signed/unsigned mismatch
+c:\users\dola769\documents\visual studio 2015\projects\pac-man\pac-man\main.cpp(502): warning C4018: '<': signed/unsigned mismatch
+c:\users\dola769\documents\visual studio 2015\projects\pac-man\pac-man\main.cpp(504): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Menu.cpp
+  Generating Code...
+  PAC-MAN.vcxproj -> c:\users\dola769\documents\visual studio 2015\Projects\PAC-MAN\Debug\PAC-MAN.exe
+  PAC-MAN.vcxproj -> c:\users\dola769\documents\visual studio 2015\Projects\PAC-MAN\Debug\PAC-MAN.pdb (Full PDB)
